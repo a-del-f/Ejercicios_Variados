@@ -1,0 +1,28 @@
+<html>
+
+<head></head>
+
+<body>
+    <?php            $bruto=2750;            $retencion=22;            $retencion=$retencion/100;     
+              $neto=$bruto*$retencion;               ?>
+    <table>
+        <tr>
+            <th>Sueldo Inicial</th>
+            <th>Impuesto</th>
+            <th>Sueldo neto</th>
+        </tr>
+        <tr>
+            <td>
+                <?php echo $bruto ?>
+            </td>
+            <td>
+                <?php echo $retencion ?>
+            </td>
+            <td>
+                <?php echo $neto ?>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
