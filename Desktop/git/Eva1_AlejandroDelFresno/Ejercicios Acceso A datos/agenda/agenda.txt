@@ -1,0 +1,32 @@
+-----0
+nombre : Jorge
+-----0
+direccion : Madrid
+-----0
+telefono : 99999999
+-----0
+correo : jorge@correo.com
+-----1
+nombre : Julia
+-----1
+direccion : Valencia
+-----1
+telefono : 235456897
+-----1
+correo : julia@gmail.com
+-----2
+nombre : Lucas 
+-----2
+direccion : Orense
+-----2
+telefono : 22222222
+-----2
+correo : lucas@hotmail.com
+-----3
+nombre : Susana 
+-----3
+direccion : Avila
+-----3
+telefono : 987546321
+-----3
+correo : susana@yahoo.com
